@@ -1,4 +1,4 @@
-# FDE-Implicit-Scheme-and-Monte-Carlo-Simulations-Numerical-Pricing
+# FDE Implicit Scheme and Monte Carlo Simulations Numerical Methods
 
 This repository contains MATLAB code for numerical pricing of financial derivatives using finite difference methods and Monte Carlo simulations. The code is based on implicit finite difference schemes and variance reduction techniques.
 
