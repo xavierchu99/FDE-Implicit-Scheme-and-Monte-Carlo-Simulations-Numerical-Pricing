@@ -1,4 +1,3 @@
-% Names of group members: Xavier Chu
 function MC_CV=MC_CV_3AssetDP(S0, X, sigma, C, r, q, T, no_samples)
 % S0, sigma, q are vectors
 % c is 3 × 3 correlation matrix
