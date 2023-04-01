@@ -1,4 +1,3 @@
-% Names of group members: Xavier Chu
 function OptVal=FD_CN_Eu_put(S0, X, r, q, T, sigma, I, N, xmin, xmax)
 % set up grid parameters
 dt = T/N; dx = (xmax-xmin)/I;
